@@ -1,0 +1,41 @@
+{
+  "name": "vapetasia-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.20",
+    "@types/body-parser": "^1.16.8",
+    "@types/express": "^4.11.0",
+    "@types/mocha": "^2.2.45",
+    "@types/mongodb": "^3.0.9",
+    "@types/mongoose": "^5.0.7",
+    "@types/node": "^8.5.5",
+    "@types/nodemailer": "^4.3.1",
+    "@types/request": "^2.47.0",
+    "@types/request-promise": "^4.1.41",
+    "@types/socket.io": "^1.4.33",
+    "nodemon": "^1.14.7",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jsonschema": "^1.2.3",
+    "jsonwebtoken": "^8.2.0",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.11",
+    "nodemailer": "^4.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "^2.1.1"
+  }
+}
